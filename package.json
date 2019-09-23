@@ -1,0 +1,23 @@
+{
+  "name": "leavitt-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "clang": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bderbidge/leavitt-interview.git"
+  },
+  "author": "Brandon Derbidge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bderbidge/leavitt-interview/issues"
+  },
+  "homepage": "https://github.com/bderbidge/leavitt-interview#readme"
+}
