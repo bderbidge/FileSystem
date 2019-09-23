@@ -1,5 +1,5 @@
-import { Directory } from "./Directory";
-import { TextFile } from "./TextFile";
+import { Directory } from "./models/Directory";
+import { TextFile } from "./models/TextFile";
 
 
 var root = new Directory("root", null,[]);
